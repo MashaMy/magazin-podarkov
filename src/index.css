@@ -1,0 +1,66 @@
+.App {
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+.center {
+  align-items: center;
+}
+
+body {
+      background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612761670_161-p-fon-goluboi-letnii-191.jpg);
+      background-size: no-repeat;
+      background-position: center;
+      background-size: cover;
+     
+    }
+  
+ .block {
+    background-color: rgba(235, 182, 214, 0.5);
+    padding: 120px;
+    width: 100;  
+    }
+
+  img {
+    width: 500px;
+  }
+
+  .cartIcon {
+    width: 70px;
+  }
+
+.categoryButtonSelected {
+      background-color:  rgba(179, 69, 135, 0.5);
+    }
+
+  .categoryButton:hover {
+    background-color: #c3f0ed;
+    }
+    
+    .categoryButton {
+      cursor: pointer;
+      margin: 5px;
+      padding: 5px;
+    }
+
+
+    p, h1, h2, button {
+      font-family: 'Poppins', sans-serif;
+      font-size: 20px;
+    
+    }
+    
+    button {
+          background-color:  rgba(235, 58, 164, 0.5);
+          margin: 15px;
+          border: none;
+          padding: 10px;
+
+      }
+
+    .icon {
+      width: 20px;
+      }
+
+  
