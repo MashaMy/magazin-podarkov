@@ -16,7 +16,7 @@ const totalPrice = useSelector(getTotalPrice);
         
         <h3> Общая сумма: {totalPrice} ₽ </h3>
 
-        {cartItems.map(cartItems => <CartItem cartItems = {cartItems}/>)}
+        {cartItems.map(cartItems=> <CartItem key={cartItems.id} cartItems = {cartItems}/>)}
         </div>)
 }
 
