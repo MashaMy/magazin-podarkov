@@ -2,7 +2,7 @@
   "name": "week-one",
   "version": "0.1.0",
   "private": true,
-  "homepage": https://MashaMy.github.io/magazin-podarkov.git,
+  "homepage": "https://github.com/MashaMy/magazin-podarkov.git",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.5",
     "@testing-library/jest-dom": "^5.17.0",
