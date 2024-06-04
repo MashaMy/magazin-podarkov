@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MashaMy/magazin-podarkov.git/static/css/main.29b99564.css",
-    "main.js": "/MashaMy/magazin-podarkov.git/static/js/main.cb918073.js",
-    "static/js/787.0a6394c4.chunk.js": "/MashaMy/magazin-podarkov.git/static/js/787.0a6394c4.chunk.js",
-    "static/media/icon-shopping.png": "/MashaMy/magazin-podarkov.git/static/media/icon-shopping.1589f603f1a0765175ef.png",
-    "index.html": "/MashaMy/magazin-podarkov.git/index.html",
-    "main.29b99564.css.map": "/MashaMy/magazin-podarkov.git/static/css/main.29b99564.css.map",
-    "main.cb918073.js.map": "/MashaMy/magazin-podarkov.git/static/js/main.cb918073.js.map",
-    "787.0a6394c4.chunk.js.map": "/MashaMy/magazin-podarkov.git/static/js/787.0a6394c4.chunk.js.map"
+    "main.css": "/magazin-podarkov.git/static/css/main.29b99564.css",
+    "main.js": "/magazin-podarkov.git/static/js/main.0e755a3c.js",
+    "static/js/787.0a6394c4.chunk.js": "/magazin-podarkov.git/static/js/787.0a6394c4.chunk.js",
+    "static/media/icon-shopping.png": "/magazin-podarkov.git/static/media/icon-shopping.1589f603f1a0765175ef.png",
+    "index.html": "/magazin-podarkov.git/index.html",
+    "main.29b99564.css.map": "/magazin-podarkov.git/static/css/main.29b99564.css.map",
+    "main.0e755a3c.js.map": "/magazin-podarkov.git/static/js/main.0e755a3c.js.map",
+    "787.0a6394c4.chunk.js.map": "/magazin-podarkov.git/static/js/787.0a6394c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29b99564.css",
-    "static/js/main.cb918073.js"
+    "static/js/main.0e755a3c.js"
   ]
 }
