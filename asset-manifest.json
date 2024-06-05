@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/magazin-podarkov/static/css/main.29b99564.css",
-    "main.js": "/magazin-podarkov/static/js/main.502ef888.js",
+    "main.js": "/magazin-podarkov/static/js/main.edcc82f0.js",
     "static/js/787.0a6394c4.chunk.js": "/magazin-podarkov/static/js/787.0a6394c4.chunk.js",
     "static/media/icon-shopping.png": "/magazin-podarkov/static/media/icon-shopping.1589f603f1a0765175ef.png",
     "index.html": "/magazin-podarkov/index.html",
     "main.29b99564.css.map": "/magazin-podarkov/static/css/main.29b99564.css.map",
-    "main.502ef888.js.map": "/magazin-podarkov/static/js/main.502ef888.js.map",
+    "main.edcc82f0.js.map": "/magazin-podarkov/static/js/main.edcc82f0.js.map",
     "787.0a6394c4.chunk.js.map": "/magazin-podarkov/static/js/787.0a6394c4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.29b99564.css",
-    "static/js/main.502ef888.js"
+    "static/js/main.edcc82f0.js"
   ]
 }
